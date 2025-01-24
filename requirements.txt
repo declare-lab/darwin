@@ -1,0 +1,5 @@
+transformers==4.41.2
+torch==2.3.1
+tqdm
+numpy
+datasets
